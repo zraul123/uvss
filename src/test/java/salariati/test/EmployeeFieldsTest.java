@@ -58,6 +58,7 @@ public class EmployeeFieldsTest {
 		assertTrue(employeeValidator.isValid(employee));
 		employee.setSalary("1500");
 		assertTrue(employeeValidator.isValid(employee));
+		assertTrue(true);
 	}
 	
 	@Test
