@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4543475-0c7f-4736-ac09-c70ca61478bf" name="Default" comment="" />
+    <list default="true" id="b4543475-0c7f-4736-ac09-c70ca61478bf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/salariati/A/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salariati/B/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salariati/C/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salariati/P/P.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/salariati/test/IntegrationTestBigBang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/salariati/test/IntegrationTestTopDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/salariati/test/ModifyFunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/salariati/test/ModifyFunctionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/salariati/test/ModifyFunctionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/salariati/test/ModifyFunctionTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,64 +45,44 @@
     <expand />
     <select />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/test/java/salariati/test/IntegrationTestBigBang.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="25">
+                    <caret line="19" selection-start-line="19" selection-end-line="42" selection-end-column="62" />
+                    <folding>
+                      <element signature="imports" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/salariati/repository/implementations/EmployeeImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/salariati/model/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-6">
+              <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/salariati/enumeration/DidacticFunction.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/test/ModifyFunctionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/salariati/controller/EmployeeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/salariati/main/StartApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/salariati/validator/EmployeeValidator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/test/AddEmployeeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="29" column="61" lean-forward="true" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,14 +91,62 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/test/ModifyFunctionTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/test/IntegrationTestTopDown.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            <state relative-caret-position="535">
+              <caret line="77" column="62" selection-start-line="77" selection-start-column="62" selection-end-line="77" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1048#1049#0" expanded="true" />
-                <element signature="e#1083#1084#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/salariati/P/P.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/salariati/C/C.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/test/AddEmployeeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-247">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/salariati/B/B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -124,15 +162,6 @@
                 <element signature="e#90#91#0" expanded="true" />
                 <element signature="e#124#125#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -174,7 +203,14 @@
         <option value="$PROJECT_DIR$/src/main/java/salariati/controller/EmployeeController.java" />
         <option value="$PROJECT_DIR$/src/test/java/salariati/test/SortTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/salariati/test/EmployeeFieldsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/A/A.java" />
         <option value="$PROJECT_DIR$/src/test/java/salariati/test/ModifyFunctionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/C/B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/B/B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/C/C.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/P/P.java" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/test/IntegrationTestBigBang.java" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/test/IntegrationTestTopDown.java" />
       </list>
     </option>
   </component>
@@ -250,7 +286,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="salariati" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="A" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProiectSalariati" type="b2602c69:ProjectViewProjectNode" />
@@ -259,7 +295,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="salariati" type="462c0819:PsiDirectoryNode" />
-              <item name="enumeration" type="462c0819:PsiDirectoryNode" />
+              <item name="B" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProiectSalariati" type="b2602c69:ProjectViewProjectNode" />
@@ -268,7 +304,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="salariati" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
+              <item name="C" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProiectSalariati" type="b2602c69:ProjectViewProjectNode" />
@@ -286,55 +322,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="salariati" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProiectSalariati" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProiectSalariati" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="salariati" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProiectSalariati" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProiectSalariati" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="salariati" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-              <item name="implementations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProiectSalariati" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProiectSalariati" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="salariati" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProiectSalariati" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProiectSalariati" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="salariati" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-              <item name="mock" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProiectSalariati" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProiectSalariati" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="salariati" type="462c0819:PsiDirectoryNode" />
-              <item name="validator" type="462c0819:PsiDirectoryNode" />
+              <item name="P" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProiectSalariati" type="b2602c69:ProjectViewProjectNode" />
@@ -366,7 +354,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589039787438" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589042745723" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -385,7 +373,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ModifyFunctionTest">
+  <component name="RunManager" selected="JUnit.IntegrationTestTopDown.Integration_PandAandB_Works">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -409,9 +397,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddEmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IntegrationTestBigBang" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProiectSalariati" />
-      <extension name="coverage" track_test_folders="true">
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="salariati.test.*" />
           <option name="ENABLED" value="true" />
@@ -419,18 +407,16 @@
       </extension>
       <extension name="recording" autostart="true" />
       <option name="PACKAGE_NAME" value="salariati.test" />
-      <option name="MAIN_CLASS_NAME" value="salariati.test.AddEmployeeTest" />
-      <option name="METHOD_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="salariati.test.IntegrationTestBigBang" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddEmployeeTest.testGetEmployeeByLastName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IntegrationTestBigBang.IntegrationTest_BigBang_Works" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProiectSalariati" />
-      <extension name="coverage" track_test_folders="true">
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="salariati.test.*" />
           <option name="ENABLED" value="true" />
@@ -438,21 +424,44 @@
       </extension>
       <extension name="recording" autostart="true" />
       <option name="PACKAGE_NAME" value="salariati.test" />
-      <option name="MAIN_CLASS_NAME" value="salariati.test.AddEmployeeTest" />
-      <option name="METHOD_NAME" value="testGetEmployeeByLastName" />
+      <option name="MAIN_CLASS_NAME" value="salariati.test.IntegrationTestBigBang" />
+      <option name="METHOD_NAME" value="IntegrationTest_BigBang_Works" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in ProiectSalariati" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IntegrationTestTopDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProiectSalariati" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="salariati.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <extension name="recording" autostart="true" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="PACKAGE_NAME" value="salariati.test" />
+      <option name="MAIN_CLASS_NAME" value="salariati.test.IntegrationTestTopDown" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegrationTestTopDown.Integration_PandAandB_Works" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectSalariati" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="salariati.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="salariati.test" />
+      <option name="MAIN_CLASS_NAME" value="salariati.test.IntegrationTestTopDown" />
+      <option name="METHOD_NAME" value="Integration_PandAandB_Works" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -505,10 +514,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IntegrationTestTopDown.Integration_PandAandB_Works" />
+        <item itemvalue="JUnit.IntegrationTestTopDown" />
+        <item itemvalue="JUnit.IntegrationTestBigBang.IntegrationTest_BigBang_Works" />
+        <item itemvalue="JUnit.IntegrationTestBigBang" />
         <item itemvalue="JUnit.ModifyFunctionTest" />
-        <item itemvalue="JUnit.All in ProiectSalariati" />
-        <item itemvalue="JUnit.AddEmployeeTest" />
-        <item itemvalue="JUnit.AddEmployeeTest.testGetEmployeeByLastName" />
       </list>
     </recent_temporary>
   </component>
@@ -531,44 +541,44 @@
       <workItem from="1586930531635" duration="4334000" />
       <workItem from="1587033283798" duration="66000" />
       <workItem from="1589036582226" duration="12000" />
-      <workItem from="1589036852234" duration="2636000" />
+      <workItem from="1589036852234" duration="5490000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddEmployeeTest_testGetEmployeeByLastName - 2020.04.15 at 09h 53m 22s.xml">
-      <configuration name="AddEmployeeTest.testGetEmployeeByLastName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddEmployeeTest_testGetEmployeeByLastName - 2020.04.15 at 09h 54m 38s.xml">
-      <configuration name="AddEmployeeTest.testGetEmployeeByLastName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddEmployeeTest_testGetEmployeeByLastName - 2020.04.15 at 09h 55m 26s.xml">
-      <configuration name="AddEmployeeTest.testGetEmployeeByLastName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddEmployeeTest_testGetEmployeeByLastName - 2020.04.15 at 09h 55m 55s.xml">
-      <configuration name="AddEmployeeTest.testGetEmployeeByLastName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddEmployeeTest_testGetEmployeeByLastName - 2020.04.15 at 09h 58m 36s.xml">
-      <configuration name="AddEmployeeTest.testGetEmployeeByLastName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddEmployeeTest_testGetEmployeeByLastName - 2020.04.15 at 10h 00m 35s.xml">
-      <configuration name="AddEmployeeTest.testGetEmployeeByLastName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddEmployeeTest - 2020.04.15 at 10h 04m 49s.xml">
-      <configuration name="AddEmployeeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddEmployeeTest - 2020.04.15 at 10h 05m 11s.xml">
-      <configuration name="AddEmployeeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_ProiectSalariati - 2020.05.09 at 18h 22m 53s.xml">
-      <configuration name="All in ProiectSalariati" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ModifyFunctionTest - 2020.05.09 at 18h 53m 26s.xml">
       <configuration name="ModifyFunctionTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ModifyFunctionTest - 2020.05.09 at 19h 30m 03s.xml">
+      <configuration name="ModifyFunctionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegrationTestBigBang - 2020.05.09 at 19h 38m 57s.xml">
+      <configuration name="IntegrationTestBigBang" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegrationTestBigBang - 2020.05.09 at 19h 39m 28s.xml">
+      <configuration name="IntegrationTestBigBang" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegrationTestBigBang - 2020.05.09 at 19h 39m 47s.xml">
+      <configuration name="IntegrationTestBigBang" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegrationTestBigBang - 2020.05.09 at 19h 39m 54s.xml">
+      <configuration name="IntegrationTestBigBang" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegrationTestBigBang_IntegrationTest_BigBang_Works - 2020.05.09 at 19h 41m 12s.xml">
+      <configuration name="IntegrationTestBigBang.IntegrationTest_BigBang_Works" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegrationTestBigBang_IntegrationTest_BigBang_Works - 2020.05.09 at 19h 41m 30s.xml">
+      <configuration name="IntegrationTestBigBang.IntegrationTest_BigBang_Works" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegrationTestTopDown - 2020.05.09 at 19h 45m 32s.xml">
+      <configuration name="IntegrationTestTopDown" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegrationTestTopDown_Integration_PandAandB_Works - 2020.05.09 at 19h 45m 48s.xml">
+      <configuration name="IntegrationTestTopDown.Integration_PandAandB_Works" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15331000" />
+    <option name="totallyTimeSpent" value="18185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -584,12 +594,12 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49749058" visible="true" weight="0.33152762" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5025094" side_tool="true" weight="0.33238637" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.30364963" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3033586" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -823,16 +833,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/main/StartApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/salariati/validator/EmployeeValidator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -847,27 +847,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/model/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/salariati/enumeration/DidacticFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/test/AddEmployeeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -888,6 +871,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/main/StartApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="11" column="95" lean-forward="true" selection-start-line="11" selection-start-column="95" selection-end-line="12" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/A/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/test/AddEmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/salariati/test/SortTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -900,6 +913,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/C/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/P/P.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/B/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/model/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/salariati/test/EmployeeFieldsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="501">
@@ -909,12 +961,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/salariati/test/ModifyFunctionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        <state relative-caret-position="255">
+          <caret line="29" column="61" lean-forward="true" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1048#1049#0" expanded="true" />
-            <element signature="e#1083#1084#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/test/IntegrationTestBigBang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="19" selection-start-line="19" selection-end-line="42" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/test/IntegrationTestTopDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="77" column="62" selection-start-line="77" selection-start-column="62" selection-end-line="77" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
